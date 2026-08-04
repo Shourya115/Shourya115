@@ -1,26 +1,14 @@
 <div align="center">
 
-```
-███████╗██╗  ██╗ ██████╗ ██╗   ██╗██████╗ ██╗   ██╗ █████╗
-██╔════╝██║  ██║██╔═══██╗██║   ██║██╔══██╗╚██╗ ██╔╝██╔══██╗
-███████╗███████║██║   ██║██║   ██║██████╔╝ ╚████╔╝ ███████║
-╚════██║██╔══██║██║   ██║██║   ██║██╔══██╗  ╚██╔╝  ██╔══██║
-███████║██║  ██║╚██████╔╝╚██████╔╝██║  ██║   ██║   ██║  ██║
-╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
-     ███████╗██╗  ██╗ █████╗  ██████╗  █████╗
-     ██╔════╝██║  ██║██╔══██╗██╔════╝ ██╔══██╗
-     ███████╗███████║███████║██║  ███╗███████║
-     ╚════██║██╔══██║██╔══██║██║   ██║██╔══██║
-     ███████║██║  ██║██║  ██║╚██████╔╝██║  ██║
-     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:64FFDA&height=220&section=header&text=Shourya%20Shaga&fontSize=60&fontColor=64FFDA&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Building%20fast,%20beautiful%20web%20apps&descAlignY=55&descColor=cdd6f4&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=750&lines=Frontend+Developer+%F0%9F%9A%80;Next.js+%7C+React+%7C+Firebase+%7C+Tailwind;Building+Scalable+%26+Beautiful+Web+Apps;Flutter+Dev+%7C+UI%2FUX+Enthusiast;Always+Shipping+Something+Cool+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=750&lines=Next.js+%7C+React+%7C+Firebase+%7C+Tailwind;Building+Scalable+%26+Beautiful+Web+Apps;Flutter+Dev+%7C+UI%2FUX+Enthusiast;Always+Shipping+Something+Cool+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Shourya115?style=flat-square&color=64FFDA&labelColor=0d1117&label=Followers)](https://github.com/Shourya115)
-[![Profile views](https://komarev.com/ghpvc/?username=Shourya115&style=flat-square&color=64FFDA&label=Profile+Views)](https://github.com/Shourya115)
+[![GitHub followers](https://img.shields.io/github/followers/Shourya115?style=for-the-badge&color=64FFDA&labelColor=0d1117&label=Followers)](https://github.com/Shourya115)
+[![Profile views](https://komarev.com/ghpvc/?username=Shourya115&style=for-the-badge&color=64FFDA&labelColor=0d1117&label=Profile+Views)](https://github.com/Shourya115)
+[![Stars](https://img.shields.io/github/stars/Shourya115?style=for-the-badge&color=64FFDA&labelColor=0d1117&label=Stars)](https://github.com/Shourya115)
 
 </div>
 
@@ -44,50 +32,11 @@ const shourya = {
 
 ## ◈ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
-**Frontend**
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,ts,firebase,nodejs,flutter,dart,git,vercel,figma,vscode&theme=dark" />
 
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=64FFDA)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=64FFDA)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=64FFDA)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=64FFDA)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=64FFDA)
-
-</td>
-<td valign="top" width="50%">
-
-**Backend & Database**
-
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=64FFDA)
-![Firestore](https://img.shields.io/badge/Firestore-0d1117?style=for-the-badge&logo=firebase&logoColor=64FFDA)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=64FFDA)
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=64FFDA)
-![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=64FFDA)
-
-</td>
-<td valign="top" width="50%">
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=64FFDA)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=64FFDA)
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=64FFDA)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=64FFDA)
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -95,14 +44,20 @@ const shourya = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shourya115&show_icons=true&theme=transparent&hide_border=true&title_color=64FFDA&icon_color=64FFDA&text_color=cdd6f4&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shourya115&layout=compact&theme=transparent&hide_border=true&title_color=64FFDA&text_color=cdd6f4&bg_color=0d1117" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Shourya115&show_icons=true&theme=transparent&hide_border=true&title_color=64FFDA&icon_color=64FFDA&text_color=cdd6f4&bg_color=0d1117&rank_icon=github" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shourya115&layout=compact&theme=transparent&hide_border=true&title_color=64FFDA&text_color=cdd6f4&bg_color=0d1117" />
 
 </div>
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shourya115&theme=transparent&hide_border=true&stroke=64FFDA&ring=64FFDA&fire=ff6e96&currStreakLabel=64FFDA&background=0d1117&sideLabels=cdd6f4&dates=cdd6f4&currStreakNum=ffffff&sideNums=ffffff" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shourya115&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 
 </div>
 
@@ -113,6 +68,16 @@ const shourya = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shourya115&bg_color=0d1117&color=64FFDA&line=64FFDA&point=ff6e96&area=true&area_color=64FFDA&hide_border=true" />
 </div>
+
+<br/>
+
+## ◈ Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Shourya115/Shourya115/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+> Note: the snake animation needs a one-time GitHub Actions workflow to generate it — see setup note at the bottom.
 
 <br/>
 
@@ -148,6 +113,39 @@ const shourya = {
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=64FFDA&height=80&section=footer&fontColor=0d1117" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:64FFDA,100:0d1117&height=100&section=footer"/>
 
 </div>
+
+<!--
+SETUP NOTE — Contribution Snake Animation
+This needs a GitHub Actions workflow to generate the SVG once a day.
+1. Create .github/workflows/snake.yml in this repo with:
+
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Shourya115
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+2. Push it, run the workflow once manually (Actions tab → Generate Snake → Run workflow).
+3. It will create an "output" branch with the SVG, which the image link above already points to.
+-->
