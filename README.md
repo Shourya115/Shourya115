@@ -1,153 +1,170 @@
 <div align="center">
 
-```
-███████╗██╗  ██╗ ██████╗ ██╗   ██╗██████╗ ██╗   ██╗ █████╗
-██╔════╝██║  ██║██╔═══██╗██║   ██║██╔══██╗╚██╗ ██╔╝██╔══██╗
-███████╗███████║██║   ██║██║   ██║██████╔╝ ╚████╔╝ ███████║
-╚════██║██╔══██║██║   ██║██║   ██║██╔══██╗  ╚██╔╝  ██╔══██║
-███████║██║  ██║╚██████╔╝╚██████╔╝██║  ██║   ██║   ██║  ██║
-╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
-     ███████╗██╗  ██╗ █████╗  ██████╗  █████╗
-     ██╔════╝██║  ██║██╔══██╗██╔════╝ ██╔══██╗
-     ███████╗███████║███████║██║  ███╗███████║
-     ╚════██║██╔══██║██╔══██║██║   ██║██╔══██║
-     ███████║██║  ██║██║  ██║╚██████╔╝██║  ██║
-     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
-```
+# 👋 Hi, I'm Shourya Shaga
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=750&lines=Frontend+Developer+%F0%9F%9A%80;Next.js+%7C+React+%7C+Firebase+%7C+Tailwind;Building+Scalable+%26+Beautiful+Web+Apps;Flutter+Dev+%7C+UI%2FUX+Enthusiast;Always+Shipping+Something+Cool+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+🚀;Building+Real-World+Web+Applications;Next.js+•+React+•+Node.js+•+Firebase;AI+Enthusiast+•+Problem+Solver;Always+Learning+Something+New+⚡" />
 
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/Shourya115?style=flat-square&color=64FFDA&labelColor=0d1117&label=Followers)](https://github.com/Shourya115)
-[![Profile views](https://komarev.com/ghpvc/?username=Shourya115&style=flat-square&color=64FFDA&label=Profile+Views)](https://github.com/Shourya115)
+<p>
+<img src="https://komarev.com/ghpvc/?username=Shourya115&label=Profile+Views&color=64FFDA&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Shourya115?style=for-the-badge&color=64FFDA&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/stars/Shourya115?affiliations=OWNER&style=for-the-badge&color=64FFDA&labelColor=0d1117"/>
+</p>
 
 </div>
 
-<br/>
+---
 
-## ◈ About Me
+# 💫 About Me
 
 ```typescript
 const shourya = {
-  role:       "Frontend Developer",
-  location:   "India 🇮🇳",
-  focus:      ["Next.js", "React", "Firebase", "Tailwind CSS"],
-  mobile:     ["Flutter", "Dart"],
-  interests:  ["UI/UX Design", "SaaS Products", "AI Integrations", "IoT Systems"],
-  currentlyBuilding: "Performant, real-world web applications",
-  motto:      "Ship fast. Design beautifully. Scale infinitely.",
-};
+
+  name: "Shourya Shaga",
+
+  role: "Full Stack Developer",
+
+  education: "B.Tech Computer Science",
+
+  location: "India 🇮🇳",
+
+  currentlyBuilding: [
+      "CodeVerse",
+      "Voice-to-FHIR AI",
+      "WanderWise"
+  ],
+
+  currentlyLearning: [
+      "Data Engineering",
+      "Machine Learning",
+      "AWS Cloud"
+  ],
+
+  interests: [
+      "Artificial Intelligence",
+      "System Design",
+      "Modern Web Apps",
+      "UI/UX",
+      "Cloud Computing"
+  ],
+
+  askMeAbout: [
+      "React",
+      "Next.js",
+      "Node.js",
+      "Firebase",
+      "Python",
+      "Tailwind CSS"
+  ],
+
+  motto:
+      "Build products that solve real-world problems."
+}
 ```
 
-<br/>
+---
 
-## ◈ Tech Stack
+# 🚀 Current Focus
 
-<table>
-<tr>
-<td valign="top" width="50%">
+- 🔭 Building scalable Full Stack Applications
+- 🌱 Learning Data Engineering & Machine Learning
+- 🤖 Exploring AI-powered products
+- ☁️ Learning AWS Cloud
+- 💻 Contributing to Open Source
+- 🎯 Preparing for Software Engineering Roles
 
-**Frontend**
+---
 
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=64FFDA)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=64FFDA)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=64FFDA)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=64FFDA)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=64FFDA)
+# 🛠 Tech Stack
 
-</td>
-<td valign="top" width="50%">
+## 👨‍💻 Languages
 
-**Backend & Database**
+<p>
 
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=64FFDA)
-![Firestore](https://img.shields.io/badge/Firestore-0d1117?style=for-the-badge&logo=firebase&logoColor=64FFDA)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=64FFDA)
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css,sql"/>
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+</p>
 
-**Mobile**
+---
 
-![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=64FFDA)
-![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=64FFDA)
+## ⚛ Frontend
 
-</td>
-<td valign="top" width="50%">
+<p>
 
-**Tools & Platforms**
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,bootstrap"/>
 
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=64FFDA)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=64FFDA)
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=64FFDA)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=64FFDA)
+</p>
 
-</td>
-</tr>
-</table>
+---
 
-<br/>
+## 🖥 Backend
 
-## ◈ GitHub Stats
+<p>
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,django"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shourya115&show_icons=true&theme=transparent&hide_border=true&title_color=64FFDA&icon_color=64FFDA&text_color=cdd6f4&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shourya115&layout=compact&theme=transparent&hide_border=true&title_color=64FFDA&text_color=cdd6f4&bg_color=0d1117" />
+</p>
 
-</div>
+---
 
-<div align="center">
+## 🗄 Database
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shourya115&theme=transparent&hide_border=true&stroke=64FFDA&ring=64FFDA&fire=ff6e96&currStreakLabel=64FFDA&background=0d1117&sideLabels=cdd6f4&dates=cdd6f4&currStreakNum=ffffff&sideNums=ffffff" />
+<p>
 
-</div>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase"/>
 
-<br/>
+</p>
 
-## ◈ Contribution Graph
+---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shourya115&bg_color=0d1117&color=64FFDA&line=64FFDA&point=ff6e96&area=true&area_color=64FFDA&hide_border=true" />
-</div>
+## ☁ Cloud & Tools
 
-<br/>
+<p>
 
-## ◈ What I'm Up To
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,postman"/>
 
-```
-▸ 🔭  Building  — Scalable web apps with Next.js & Firebase
-▸ 🌱  Learning  — Advanced system design & AI integrations
-▸ 💬  Ask me about — React, Next.js, Firebase, Flutter, UI/UX
-▸ ⚡  Fun fact  — I think in components and dream in Tailwind classes
-```
+</p>
 
-<br/>
+---
 
-## ◈ Connect With Me
+# 📈 Skills
 
-<div align="center">
+| Skill | Level |
+|--------|-------|
+| React | ██████████ 95% |
+| Next.js | █████████ 90% |
+| JavaScript | █████████ 90% |
+| TypeScript | ████████ 80% |
+| Node.js | ████████ 82% |
+| Firebase | █████████ 88% |
+| SQL | ████████ 82% |
+| Python | ████████ 80% |
+| Machine Learning | ██████ 60% |
+| AWS | █████ 50% |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=64FFDA)](https://www.linkedin.com/in/shourya-shaga-14a797264/)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=64FFDA)](https://github.com/Shourya115)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=64FFDA)](mailto:shouryashaga.ll@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=64FFDA)](https://YOUR_PORTFOLIO_LINK.com)
+---
 
-</div>
+# 🎯 2026 Goals
 
-<br/>
+✅ Build impactful Full Stack Projects
 
-<div align="center">
+✅ Master Data Engineering
 
-```
-╔══════════════════════════════════════════════════════════╗
-║   "First, solve the problem. Then, write the code."      ║
-╚══════════════════════════════════════════════════════════╝
-```
+✅ Learn Advanced Machine Learning
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=64FFDA&height=80&section=footer&fontColor=0d1117" />
+✅ Contribute to Open Source
 
-</div>
+✅ Earn AWS Certifications
+
+✅ Crack a Top Software Engineering Role
+
+---
+
+# ⚡ Fun Facts
+
+- 💡 I enjoy turning ideas into products.
+- 🎨 I love designing clean UI/UX.
+- 🚀 I enjoy participating in Hackathons.
+- 🤖 Interested in AI + Healthcare + Education.
+- ☕ Powered by Coffee and Curiosity.
+
+---
