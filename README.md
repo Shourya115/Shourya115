@@ -1,170 +1,74 @@
-<div align="center">
+👋 Hi, I'm Shourya Shaga
 
-# 👋 Hi, I'm Shourya Shaga
+Full Stack Developer • AI Builder • B.Tech CSE
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+🚀;Building+Real-World+Web+Applications;Next.js+•+React+•+Node.js+•+Firebase;AI+Enthusiast+•+Problem+Solver;Always+Learning+Something+New+⚡" />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=Shourya115&label=Profile+Views&color=64FFDA&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Shourya115?style=for-the-badge&color=64FFDA&labelColor=0d1117"/>
-<img src="https://img.shields.io/github/stars/Shourya115?affiliations=OWNER&style=for-the-badge&color=64FFDA&labelColor=0d1117"/>
-</p>
 
-</div>
+🚀 About Me
 
----
+💻 Full Stack Developer from India
 
-# 💫 About Me
+🎓 B.Tech CSE Student
 
-```typescript
-const shourya = {
+🌱 Learning AI/ML, Data Engineering & AWS
 
-  name: "Shourya Shaga",
+⚡ Building CodeVerse, WanderWise, Voice-to-FHIR AI and RiseUp Zone
 
-  role: "Full Stack Developer",
+🛠️ Tech Stack
 
-  education: "B.Tech Computer Science",
+Languages: C++, Java, Python, JavaScript, TypeScript, SQL
 
-  location: "India 🇮🇳",
+Frontend: React, Next.js, Tailwind CSS, Bootstrap
 
-  currentlyBuilding: [
-      "CodeVerse",
-      "Voice-to-FHIR AI",
-      "WanderWise"
-  ],
+Backend: Node.js, Express, Django, Firebase
 
-  currentlyLearning: [
-      "Data Engineering",
-      "Machine Learning",
-      "AWS Cloud"
-  ],
+Database: PostgreSQL, MySQL, MongoDB, Firestore
 
-  interests: [
-      "Artificial Intelligence",
-      "System Design",
-      "Modern Web Apps",
-      "UI/UX",
-      "Cloud Computing"
-  ],
+Tools: Git, GitHub, Vercel, VS Code, Figma, Postman
 
-  askMeAbout: [
-      "React",
-      "Next.js",
-      "Node.js",
-      "Firebase",
-      "Python",
-      "Tailwind CSS"
-  ],
+🌟 Featured Projects
 
-  motto:
-      "Build products that solve real-world problems."
-}
-```
+CodeVerse
 
----
+Modern coding learning platform built with Next.js, PostgreSQL, Drizzle ORM and Better Auth.
 
-# 🚀 Current Focus
+WanderWise
 
-- 🔭 Building scalable Full Stack Applications
-- 🌱 Learning Data Engineering & Machine Learning
-- 🤖 Exploring AI-powered products
-- ☁️ Learning AWS Cloud
-- 💻 Contributing to Open Source
-- 🎯 Preparing for Software Engineering Roles
+AI-powered travel planning application.
 
----
+Voice-to-FHIR AI
 
-# 🛠 Tech Stack
+Healthcare hackathon project converting voice interactions into FHIR-compliant records.
 
-## 👨‍💻 Languages
+RiseUp Zone
 
-<p>
+Student wellness and productivity platform.
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css,sql"/>
+📊 GitHub Stats
 
-</p>
+Replace USERNAME in:
+https://github-readme-stats.vercel.app/api?username=Shourya115
+https://streak-stats.demolab.com?user=Shourya115
+https://github-readme-activity-graph.vercel.app/graph?username=Shourya115
 
----
+🎯 2026 Goals
 
-## ⚛ Frontend
+Master Data Engineering
 
-<p>
+Learn Advanced ML
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,bootstrap"/>
+Earn AWS Certification
 
-</p>
+Contribute to Open Source
 
----
+Build SaaS products
 
-## 🖥 Backend
+🌐 Connect
 
-<p>
+GitHub: https://github.com/Shourya115
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,django"/>
+LinkedIn: https://www.linkedin.com/in/shourya-shaga-14a797264/
 
-</p>
+Email: shouryashaga.ll@gmail.com
 
----
-
-## 🗄 Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase"/>
-
-</p>
-
----
-
-## ☁ Cloud & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,postman"/>
-
-</p>
-
----
-
-# 📈 Skills
-
-| Skill | Level |
-|--------|-------|
-| React | ██████████ 95% |
-| Next.js | █████████ 90% |
-| JavaScript | █████████ 90% |
-| TypeScript | ████████ 80% |
-| Node.js | ████████ 82% |
-| Firebase | █████████ 88% |
-| SQL | ████████ 82% |
-| Python | ████████ 80% |
-| Machine Learning | ██████ 60% |
-| AWS | █████ 50% |
-
----
-
-# 🎯 2026 Goals
-
-✅ Build impactful Full Stack Projects
-
-✅ Master Data Engineering
-
-✅ Learn Advanced Machine Learning
-
-✅ Contribute to Open Source
-
-✅ Earn AWS Certifications
-
-✅ Crack a Top Software Engineering Role
-
----
-
-# ⚡ Fun Facts
-
-- 💡 I enjoy turning ideas into products.
-- 🎨 I love designing clean UI/UX.
-- 🚀 I enjoy participating in Hackathons.
-- 🤖 Interested in AI + Healthcare + Education.
-- ☕ Powered by Coffee and Curiosity.
-
----
+"First, solve the problem. Then, write the code."
