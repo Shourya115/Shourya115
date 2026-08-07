@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=44&duration=1&pause=999999&color=64FFDA&center=true&vCenter=true&width=900&lines=SHOURYA+SHAGA" alt="Shourya Shaga"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=850&lines=Frontend+Developer+🚀;Next.js+•+React+•+Firebase+•+Tailwind;Building+Scalable+%26+Beautiful+Web+Apps;Flutter+Developer+•+UI%2FUX+Enthusiast;Always+Shipping+Something+Cool+⚡" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=900&lines=Frontend+Developer;Next.js+%7C+React+%7C+Firebase+%7C+Tailwind;Building+Scalable+Web+Apps;Flutter+Developer;Always+Shipping+Something+Cool" alt="Typing SVG" />
 
 <br/>
 
