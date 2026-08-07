@@ -1,39 +1,42 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=44&duration=1&pause=999999&color=64FFDA&center=true&vCenter=true&width=900&lines=SHOURYA+SHAGA" alt="Shourya Shaga"/>
+# 👋 Hi, I'm Shourya Shaga
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=900&lines=Frontend+Developer;Next.js+%7C+React+%7C+Firebase+%7C+Tailwind;Building+Scalable+Web+Apps;Flutter+Developer;Always+Shipping+Something+Cool" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=64FFDA&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js;Flutter+Developer;Building+Modern+Web+Applications;Always+Learning+Something+New+🚀" />
 
 <br/>
 
-<img src="https://img.shields.io/github/followers/Shourya115?style=for-the-badge&logo=github&logoColor=64FFDA&label=Followers&labelColor=0d1117&color=111827" />
-<img src="https://komarev.com/ghpvc/?username=Shourya115&style=for-the-badge&label=Profile+Views&color=64FFDA" />
-<img src="https://img.shields.io/github/stars/Shourya115?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=FFD700&label=Stars&labelColor=0d1117&color=111827" />
+<p>
+  <img src="https://img.shields.io/badge/Frontend-Next.js-000000?style=for-the-badge&logo=next.js"/>
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
 
-<br/><br/>
+<p>
+  <img src="https://img.shields.io/github/followers/Shourya115?style=for-the-badge&label=Followers&color=64FFDA"/>
+  <img src="https://komarev.com/ghpvc/?username=Shourya115&style=for-the-badge&color=64FFDA"/>
+</p>
 
-<a href="https://github.com/Shourya115">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=64FFDA"/>
-</a>
+<p>
+  <a href="https://github.com/Shourya115">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/shourya-shaga-14a797264/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/shourya-shaga-14a797264/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="mailto:shouryashaga.ll@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=64FFDA"/>
-</a>
+  <a href="mailto:shouryashaga.ll@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=64FFDA&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=64FFDA&section=header"/>
 
 </div>
 
-<br/>
-
 ## ◈ About Me
-
 ```typescript
 const shourya = {
   role:       "Frontend Developer",
