@@ -152,11 +152,11 @@ const shourya = {
 
 <br/>
 
-## ◈ Currently Listening To
+## ◈ GitHub Metrics
 
 <div align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=gaa6xyxq8ildfisvm41eqwp0s&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=64FFDA&bar_color_cover=false"/>
+<img src="https://raw.githubusercontent.com/Shourya115/Shourya115/main/github-metrics.svg" alt="GitHub Metrics"/>
 
 </div>
 
